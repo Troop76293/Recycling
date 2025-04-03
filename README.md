@@ -5,6 +5,11 @@ Some places that will take your Styrofoam are:
 2. Recycle Ann Arbor                                                                      	                                                                2950 East Ellsworth Rd, Ann Arbor, MI 48108 734-971-7400 
 
 ## Aluminum
+Some places that will take aluminum:
+1. Livonia Drop-off Recycling Center 
+2. PADNOS Livonia Recycling 
+3. Haggerty Metals
+
 ## Light Bulb
 ## Batteries
 ## Medical Waste
