@@ -11,7 +11,13 @@ Some places that will take aluminum:
 3. Haggerty Metals
 
 ## Light Bulb
+1. Light bulbs can be recycled at:
+2. ERG Environmental Services 13040 Merriman Rd, Livonia, MI 48150 734-437-9650
+3. Home Depot
+4. Lowes
+
 ## Batteries
+
 ## Medical Waste
 ## Tires
 ## Furniture/Mattress/Box Springs
