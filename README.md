@@ -1,7 +1,7 @@
 # Recycling
 ## Styrofoam
 Some places that will take your Styrofoam are:
-1. Goodwill  Livonia                                                                                                                                                       12651 Middlebelt Rd - behind their building                                                 
+1.    (Goodwill Livonia/)    [https://www.goodwilldetroit.org/stores/]                                                                                                                                               12651 Middlebelt Rd - behind their building                                                 
 2. Recycle Ann Arbor                                                                      	                                                                2950 East Ellsworth Rd, Ann Arbor, MI 48108 734-971-7400 
 
 ## Aluminum
