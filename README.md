@@ -7,14 +7,14 @@ Some places that will take your Styrofoam are:
 ## Aluminum
 Some places that will take aluminum:
 1. Livonia Drop-off Recycling Center 
-2. PADNOS Livonia Recycling 
-3. Haggerty Metals
+2. [PADNOS Livonia Recycling](https://www.recycleannarbor.org/divisions/drop-off-station) 
+3. [Haggerty Metals](https://www.haggertymetal.com/)
 
 ## Light Bulb
-1. Light bulbs can be recycled at:
-2. ERG Environmental Services 13040 Merriman Rd, Livonia, MI 48150 734-437-9650
-3. Home Depot
-4. Lowes
+ Light bulbs can be recycled at:
+1. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650
+2. Home Depot
+3. Lowes
 
 ## Batteries
 Some places that take batteries are:
@@ -48,7 +48,7 @@ Needles can be Disposed at:
 
 ## Motor Oil
 Motor oil can be disposed of at:
-1. ERG Environmental Services 13040 Merriman Rd, Livonia, MI 48150 734-437-9650 
+1. [ERG Environmental Services](https://www.furniture-bank.org/donate/#donate-furniture) 13040 Merriman Rd, Livonia, MI 48150 734-437-9650 
 2. Most Automotive Service Centers
 3. Lakeshore Tire & Auto 734-45-4570
 4. O’Reilly’s Auto Parts 734-228-4827
@@ -59,7 +59,7 @@ Clothing and shoes can be recycled at:
 1. Pickup in Livonia through Simple Recycling
 2. Shoes and Clothing Donations Bin located in the parking lot of Villa Marie 313-980-4311
 3. Shoes - Fleet Feet - Northville
-4. Shoes - Got Sneakers?
+4. Shoes - Got Sneakers
 
 ## Plastic Bags
 Some places that take plastic bags are:
