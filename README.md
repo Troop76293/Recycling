@@ -36,19 +36,18 @@ Your tires can be recycled at:
 
 ## Furniture/Mattress/Box Springs
 Furniture, Mattresses, and box springs can be recycled at:
-1. Furniture Bank of Southeastern Mi
-2. Goodwill
-3. Salvation Army
-4. Habitat for Humanity ReStore
+1. [Furniture Bank of Southeastern Mi](https://www.furniture-bank.org/donate/#donate-furniture)
+2. [Goodwill](https://www.goodwillsemi.org/donate/donate-your-goods/)
+3. [Salvation Army](https://satruck.org/donate/choose)
+4. [Habitat for Humanity ReStore](https://www.habitat.org/restores/donate-goods)
 
 ## Used Medical Needles
 Needles can be Disposed at:
 1. Safe Needle Disposal
-2. ERG Environmental Services 13040 Merriman Rd, Livonia, MI 48150 734-437-9650
-
+2. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650
 ## Motor Oil
 Motor oil can be disposed of at:
-1. [ERG Environmental Services](https://www.furniture-bank.org/donate/#donate-furniture) 13040 Merriman Rd, Livonia, MI 48150 734-437-9650 
+1. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650 
 2. Most Automotive Service Centers
 3. Lakeshore Tire & Auto 734-45-4570
 4. O’Reilly’s Auto Parts 734-228-4827
