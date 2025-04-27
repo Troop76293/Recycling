@@ -55,9 +55,9 @@ Motor oil can be disposed of at:
 
 ## Shoes/Clothes
 Clothing and shoes can be recycled at:
-1. Pickup in Livonia through Simple Recycling
+1. Pickup in Livonia through [Simple Recycling](https://simplerecycling.com/)
 2. Shoes and Clothing Donations Bin located in the parking lot of Villa Marie 313-980-4311
-3. Shoes - Fleet Feet - Northville
+3. Shoes - [Fleet Feet](https://www.fleetfeet.com/s/semichigan/locations/northville?srsltid=AfmBOopWo4-EiYxkW45UmuPPtsyPVT-AeXYjTwxtDwhoy7YhAWjfyoEX) - Northville
 4. Shoes - Got Sneakers
 
 ## Plastic Bags
