@@ -1,5 +1,6 @@
 # Alternative Recycling Locations near the City of Livonia, Michigan
-## Troop 76293 Girl Scout Silver Award prodject
+## Troop 76293 Girl Scout Silver Award project
+
 ## Styrofoam
 Some places that will take your Styrofoam are:
 1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd - behind their building                                                 
