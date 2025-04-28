@@ -1,4 +1,5 @@
-# Recycling
+# Alternative Recycling Locations near the City of Livonia, Michigan
+## Troop 76293 Girl Scout Silver Award prodject
 ## Styrofoam
 Some places that will take your Styrofoam are:
 1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd - behind their building                                                 
@@ -58,7 +59,7 @@ Clothing and shoes can be recycled at:
 1. Pickup in Livonia through [Simple Recycling](https://simplerecycling.com/)
 2. Shoes and Clothing Donations Bin located in the parking lot of Villa Marie 313-980-4311
 3. Shoes - [Fleet Feet](https://www.fleetfeet.com/s/semichigan/locations/northville?srsltid=AfmBOopWo4-EiYxkW45UmuPPtsyPVT-AeXYjTwxtDwhoy7YhAWjfyoEX) - Northville
-4. Shoes - Got Sneakers
+4. Shoes - [Got Sneakers](http://www.gotsneakers.com)
 
 ## Plastic Bags
 Some places that take plastic bags are:
@@ -70,14 +71,14 @@ Some places that take plastic bags are:
 
 ## Bubble Wrap
 Bubble wrap can be recycled at:
-1. Ann Arbor thrift shop
+1. [Ann Arbor thrift shop](https://annarborthriftshop.org/)
 
 ## Car Seats and Boosters
 Some places that takes car seats and boosters are:
-1. Recycle Ann Arbor
-2. Target 
-3. Terracycle
+1. [Recycle Ann Arbor](https://www.recycleannarbor.org/a-z-recycling-guide?page=1)
+2. [Target](https://www.target.com/c/car-seat-trade-in-event-faq/-/N-ln7zc)
+3. [Terracycle](https://shop.terracycle.com/en-US/products/baby-gear-zero-waste-pallet)
 
 ## Plastic caps
 Plastic caps be recycled at:
-1. American Legion Auxiliary 
+1. American Legion Auxiliary
