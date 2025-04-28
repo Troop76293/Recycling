@@ -45,7 +45,7 @@ Furniture, Mattresses, and box springs can be recycled at:
 
 ## Used Medical Needles
 Needles can be Disposed at:
-1. Safe Needle Disposal
+1. [Safe Needle Disposal](https://safeneedledisposal.org/#google_vignette)
 2. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650
 ## Motor Oil
 Motor oil can be disposed of at:
