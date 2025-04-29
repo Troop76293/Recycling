@@ -4,7 +4,7 @@
 ## Styrofoam 
 <div style="display:flex">
 <div>
- <img src="./assets/images/th.jpg" alt="Styrofoam" alig/>
+ <img src="./assets/images/th.jpg" alt="Styrofoam" />
  </div>
  <div>
 Some places that will take your Styrofoam are:
