@@ -15,6 +15,7 @@ Some places that will take aluminum:
 1. Livonia Drop-off Recycling Center 
 2. [PADNOS Livonia Recycling](https://www.recycleannarbor.org/divisions/drop-off-station) 
 3. [Haggerty Metals](https://www.haggertymetal.com/)
+<span style="clear:both"></span>
 
 ## Light Bulb
  Light bulbs can be recycled at:
