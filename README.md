@@ -2,7 +2,7 @@
 ## Troop 76293 Girl Scout Silver Award project
 
 ## Styrofoam 
- |<img src="./assets/images/th.jpg" alt="Styrofoam" />|
+ <img src="./assets/images/th.jpg" alt="Styrofoam" />
 
 
 Some places that will take your Styrofoam are:
