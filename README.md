@@ -2,7 +2,7 @@
 ## Troop 76293 Girl Scout Silver Award project
 
 ## Styrofoam 
- <img src="./assets/images/th.jpg"/ alt="Styrofoam" style="float:left">
+ <img src="./assets/images/th.jpg"/ alt="Styrofoam" style="float:left" />
  
 Some places that will take your Styrofoam are:
 1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd - behind their building                                                 
