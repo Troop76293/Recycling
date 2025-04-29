@@ -1,37 +1,40 @@
 # Alternative Recycling Locations near the City of Livonia, Michigan
 ## Troop 76293 Girl Scout Silver Award project
 
-<img align="right" src="./assets/images/th.jpg" alt="Styrofoam" />
+<img class="right" src="./assets/images/th.jpg" alt="Styrofoam" />
 
 ## Styrofoam 
 Some places that will take your Styrofoam are:
 1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd - behind their building                                                 
 2. [Recycle Ann Arbor](https://www.recycleannarbor.org/divisions/drop-off-station)                                                                      	                                                                2950 East Ellsworth Rd, Ann Arbor, MI 48108 734-971-7400 
 
-<span style="clear:both"></span>
+<span class="footer"></span>
 
 ## Aluminum
-<img align="right" src="./assets/images/th.jpg" alt="Styrofoam" />
+<img class="right" src="./assets/images/aluminum.jpg" alt="Styrofoam" />
 Some places that will take aluminum:
 1. Livonia Drop-off Recycling Center 
 2. [PADNOS Livonia Recycling](https://www.recycleannarbor.org/divisions/drop-off-station) 
 3. [Haggerty Metals](https://www.haggertymetal.com/)
 
-<span style="clear:both"></span>
+<span class="footer"></span>
 
 ## Light Bulb
+<img class="right" src="./assets/images/light.jpg" alt="Styrofoam" />
  Light bulbs can be recycled at:
 1. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650
 2. Home Depot
 3. Lowes
 
 ## Batteries
+<img class="right" src="./assets/images/battery.jpg" alt="Styrofoam" />
 Some places that take batteries are:
 1. Batteries plus
 2. Lowes
 3. Home Depot
 
 ## Medical Waste
+<img class="right" src="./assets/images/aluminum.jpg" alt="Styrofoam" />
 Some places to dispose of your medical waste are:
 1. Wayne County Dept. of Environment 734-326-3936
 2. Michigan EGLE Environmental Assistance Center 800-662-9278
