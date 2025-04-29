@@ -1,8 +1,8 @@
 # Alternative Recycling Locations near the City of Livonia, Michigan
 ## Troop 76293 Girl Scout Silver Award project
 
-<span class="section">
 ## Styrofoam 
+<span class="section">
 
  <img src="./assets/images/th.jpg" alt="Styrofoam" />
 
