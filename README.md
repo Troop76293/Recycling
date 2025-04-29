@@ -2,15 +2,12 @@
 ## Troop 76293 Girl Scout Silver Award project
 
 ## Styrofoam 
-<div class="section">
-<div class="left>
- <img src="./assets/images/th.jpg"/ alt="Styrofoam">
- <div>
+ <img src="./assets/images/th.jpg"/ alt="Styrofoam" style="float:left">
+ 
 Some places that will take your Styrofoam are:
 1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd - behind their building                                                 
 2. [Recycle Ann Arbor](https://www.recycleannarbor.org/divisions/drop-off-station)                                                                      	                                                                2950 East Ellsworth Rd, Ann Arbor, MI 48108 734-971-7400 
-<div class="right">
-</div>
+
 ## Aluminum
 Some places that will take aluminum:
 1. Livonia Drop-off Recycling Center 
