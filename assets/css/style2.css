@@ -1,3 +1,5 @@
 header{
     background:forestgreen
 }
+Img.right{Float:left;margin-left:200px;width:200px;}
+P>.clear{clear:both;}
