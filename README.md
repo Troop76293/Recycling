@@ -12,6 +12,7 @@ Some places that will take your Styrofoam are:
 
 ## Aluminum
 <img class="right" src="./assets/images/aluminum.jpg" alt="Styrofoam" />
+
 Some places that will take aluminum:
 1. Livonia Drop-off Recycling Center 
 2. [PADNOS Livonia Recycling](https://www.recycleannarbor.org/divisions/drop-off-station) 
@@ -21,6 +22,7 @@ Some places that will take aluminum:
 
 ## Light Bulb
 <img class="right" src="./assets/images/light.jpg" alt="Styrofoam" />
+
  Light bulbs can be recycled at:
 1. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650
 2. Home Depot
@@ -28,18 +30,22 @@ Some places that will take aluminum:
 
 ## Batteries
 <img class="right" src="./assets/images/battery.jpg" alt="Styrofoam" />
+
 Some places that take batteries are:
 1. Batteries plus
 2. Lowes
 3. Home Depot
 
 ## Medical Waste
-<img class="right" src="./assets/images/aluminum.jpg" alt="Styrofoam" />
+<img class="right" src="./assets/images/medical.jpg" alt="Styrofoam" />
+
 Some places to dispose of your medical waste are:
 1. Wayne County Dept. of Environment 734-326-3936
 2. Michigan EGLE Environmental Assistance Center 800-662-9278
 
 ## Tires
+<img class="right" src="./assets/images/tires.jpg" alt="Styrofoam" />
+
 Your tires can be recycled at:
 1. Most Auto Repair Shops
 2. Bell Tire 734-961-4606
@@ -47,6 +53,8 @@ Your tires can be recycled at:
 4. Annually at the Livonia Department of Public Works
 
 ## Furniture/Mattress/Box Springs
+<img class="right" src="./assets/images/furniture.jpg" alt="Styrofoam" />
+
 Furniture, Mattresses, and box springs can be recycled at:
 1. [Furniture Bank of Southeastern Mi](https://www.furniture-bank.org/donate/#donate-furniture)
 2. [Goodwill](https://www.goodwillsemi.org/donate/donate-your-goods/)
@@ -54,11 +62,15 @@ Furniture, Mattresses, and box springs can be recycled at:
 4. [Habitat for Humanity ReStore](https://www.habitat.org/restores/donate-goods)
 
 ## Used Medical Needles
+<img class="right" src="./assets/images/needles.jpg" alt="Styrofoam" />
+
 Needles can be Disposed at:
 1. [Safe Needle Disposal](https://safeneedledisposal.org/#google_vignette)
 2. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650
 
 ## Motor Oil
+<img class="right" src="./assets/images/oil.jpg" alt="Styrofoam" />
+
 Motor oil can be disposed of at:
 1. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650 
 2. Most Automotive Service Centers
@@ -67,6 +79,8 @@ Motor oil can be disposed of at:
 5. Plymouth Auto Care 734-455-6850
 
 ## Shoes/Clothes
+<img class="right" src="./assets/images/shoe.jpg" alt="Styrofoam" />
+
 Clothing and shoes can be recycled at:
 1. Pickup in Livonia through [Simple Recycling](https://simplerecycling.com/)
 2. Shoes and Clothing Donations Bin located in the parking lot of Villa Marie 313-980-4311
@@ -74,6 +88,8 @@ Clothing and shoes can be recycled at:
 4. Shoes - [Got Sneakers](http://www.gotsneakers.com)
 
 ## Plastic Bags
+<img class="right" src="./assets/images/bag.jpg" alt="Styrofoam" />
+
 Some places that take plastic bags are:
 1. Kroger
 2. Home Depot
@@ -82,15 +98,21 @@ Some places that take plastic bags are:
 5. Kohl's
 
 ## Bubble Wrap
+<img class="right" src="./assets/images/bubble.jpg" alt="Styrofoam" />
+
 Bubble wrap can be recycled at:
 1. [Ann Arbor thrift shop](https://annarborthriftshop.org/)
 
 ## Car Seats and Boosters
+<img class="right" src="./assets/images/seat.jpg" alt="Styrofoam" />
+
 Some places that takes car seats and boosters are:
 1. [Recycle Ann Arbor](https://www.recycleannarbor.org/a-z-recycling-guide?page=1)
 2. [Target](https://www.target.com/c/car-seat-trade-in-event-faq/-/N-ln7zc)
 3. [Terracycle](https://shop.terracycle.com/en-US/products/baby-gear-zero-waste-pallet)
 
 ## Plastic caps
+<img class="right" src="./assets/images/caps.jpg" alt="Styrofoam" />
+
 Plastic caps be recycled at:
 1. American Legion Auxiliary
