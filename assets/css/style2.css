@@ -2,4 +2,4 @@ header{
     background:forestgreen
 }
 Img.right{Float:left;margin-right:30px;width:200px;}
-P>.clear{clear:both;}
+P:has(.clear){clear:both;}
