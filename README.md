@@ -1,9 +1,10 @@
 # Alternative Recycling Locations near the City of Livonia, Michigan
 ## Troop 76293 Girl Scout Silver Award project
 
-<img class="right" src="./assets/images/th.jpg" alt="Styrofoam" />
 
 ## Styrofoam 
+<img class="right" src="./assets/images/th.jpg" alt="Styrofoam" />
+
 Some places that will take your Styrofoam are:
 1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)   Items Accepted: foam polystyrene cups, plates, bowls, take-out containers, egg cartons, and block package foam.                                                                                                                                            12651 Middlebelt Rd                                                 
 2. [Recycle Ann Arbor](https://www.recycleannarbor.org/divisions/drop-off-station)                                                                      	                                                                2950 East Ellsworth Rd, Ann Arbor, MI 48108 734-971-7400 
@@ -90,6 +91,7 @@ Clothing and shoes can be recycled at:
 ## Plastic Bags
 <img class="right" src="./assets/images/bag.jpg" alt="Styrofoam" />
 Several organizations want plastic grocery bags to weave into mats. Plastic + Yarn, or “plarn”, is what is used to knit re-purposed plastic shopping bags into items such as sleeping mats for unhoused individuals and other household reusable items.
+
 
 
 Some places that take plastic bags are:
