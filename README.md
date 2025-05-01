@@ -118,4 +118,5 @@ Some places that takes car seats and boosters are:
 
 Plastic caps be recycled at:
 1. American Legion Auxiliary
+
 Aluminum can tabs are small, but they have a high concentration of pure recyclable aluminum.  Revenue from recycled pop tabs helps support charitable organizations.   For example, the American Legion Post 32 at 9318 Newburgh Road accepts pop tabs and donates them to the VA Fisher House in Ann Arbor.  Several Ronald McDonald House Charities still participate in pop tab collection programs to raise funds for their programs.
