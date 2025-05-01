@@ -94,6 +94,8 @@ Several organizations want plastic grocery bags to weave into mats. Plastic + Ya
 
 
 
+
+
 Some places that take plastic bags are:
 1. Kroger
 2. Home Depot
