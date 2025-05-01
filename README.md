@@ -95,7 +95,7 @@ Some places that take plastic bags are:
 2. Home Depot
 3. Lowes
 4. Menards
-             5. Kohl's
+        5. Kohl's
 
 ## Bubble Wrap
 <img class="right" src="./assets/images/bubble.jpg" alt="Styrofoam" />
