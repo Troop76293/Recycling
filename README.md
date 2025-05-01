@@ -5,7 +5,7 @@
 
 ## Styrofoam 
 Some places that will take your Styrofoam are:
-1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd                                                 
+1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)   Items Accepted: foam polystyrene cups, plates, bowls, take-out containers, egg cartons, and block package foam.                                                                                                                                            12651 Middlebelt Rd                                                 
 2. [Recycle Ann Arbor](https://www.recycleannarbor.org/divisions/drop-off-station)                                                                      	                                                                2950 East Ellsworth Rd, Ann Arbor, MI 48108 734-971-7400 
 
 <span class="footer"></span>
@@ -89,6 +89,7 @@ Clothing and shoes can be recycled at:
 
 ## Plastic Bags
 <img class="right" src="./assets/images/bag.jpg" alt="Styrofoam" />
+Several organizations want plastic grocery bags to weave into mats. Plastic + Yarn, or “plarn”, is what is used to knit re-purposed plastic shopping bags into items such as sleeping mats for unhoused individuals and other household reusable items.
 
 Some places that take plastic bags are:
 1. Kroger
@@ -116,3 +117,4 @@ Some places that takes car seats and boosters are:
 
 Plastic caps be recycled at:
 1. American Legion Auxiliary
+Aluminum can tabs are small, but they have a high concentration of pure recyclable aluminum.  Revenue from recycled pop tabs helps support charitable organizations.   For example, the American Legion Post 32 at 9318 Newburgh Road accepts pop tabs and donates them to the VA Fisher House in Ann Arbor.  Several Ronald McDonald House Charities still participate in pop tab collection programs to raise funds for their programs.
