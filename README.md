@@ -91,6 +91,7 @@ Clothing and shoes can be recycled at:
 <img class="right" src="./assets/images/bag.jpg" alt="Styrofoam" />
 Several organizations want plastic grocery bags to weave into mats. Plastic + Yarn, or “plarn”, is what is used to knit re-purposed plastic shopping bags into items such as sleeping mats for unhoused individuals and other household reusable items.
 
+
 Some places that take plastic bags are:
 1. Kroger
 2. Home Depot
