@@ -28,6 +28,7 @@ Some places that will take aluminum:
 1. [ERG Environmental Services](https://ergenvironmental.com/environmental-services/household-hazardous-waste-drop-off/)  13040 Merriman Rd, Livonia, MI 48150 734-437-9650
 2. Home Depot
 3. Lowes
+4. Ikea
 
 ## Batteries
 <img class="right" src="./assets/images/battery.jpg" alt="Styrofoam" />
@@ -36,6 +37,7 @@ Some places that take batteries are:
 1. Batteries plus
 2. Lowes
 3. Home Depot
+4. Ikea
 
 ## Medical Waste
 <img class="right" src="./assets/images/medical.jpg" alt="Styrofoam" />
@@ -98,6 +100,7 @@ Some places that take plastic bags are:
 3. Lowes
 4. Menards 
 5. Kohl's
+6. Ikea
 
 ## Bubble Wrap
 <img class="right" src="./assets/images/bubble.jpg" alt="Styrofoam" />
