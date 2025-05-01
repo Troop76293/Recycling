@@ -95,7 +95,7 @@ Some places that take plastic bags are:
 2. Home Depot
 3. Lowes
 4. Menards
-        5. Kohl's
+     5. Kohl's
 
 ## Bubble Wrap
 <img class="right" src="./assets/images/bubble.jpg" alt="Styrofoam" />
@@ -111,7 +111,7 @@ Some places that takes car seats and boosters are:
 2. [Target](https://www.target.com/c/car-seat-trade-in-event-faq/-/N-ln7zc)
 3. [Terracycle](https://shop.terracycle.com/en-US/products/baby-gear-zero-waste-pallet)
 
-## Plastic caps
+## Aluminum tabs
 <img class="right" src="./assets/images/caps.jpg" alt="Styrofoam" />
 
 Plastic caps be recycled at:
