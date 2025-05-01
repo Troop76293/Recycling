@@ -5,7 +5,7 @@
 
 ## Styrofoam 
 Some places that will take your Styrofoam are:
-1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd - behind their building                                                 
+1.    [Goodwill Livonia/](https://www.goodwilldetroit.org/stores/)                                                                                                                                               12651 Middlebelt Rd                                                 
 2. [Recycle Ann Arbor](https://www.recycleannarbor.org/divisions/drop-off-station)                                                                      	                                                                2950 East Ellsworth Rd, Ann Arbor, MI 48108 734-971-7400 
 
 <span class="footer"></span>
@@ -95,7 +95,7 @@ Some places that take plastic bags are:
 2. Home Depot
 3. Lowes
 4. Menards
-5. Kohl's
+             5. Kohl's
 
 ## Bubble Wrap
 <img class="right" src="./assets/images/bubble.jpg" alt="Styrofoam" />
