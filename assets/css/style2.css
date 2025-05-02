@@ -4,4 +4,4 @@ header{
 Img.right{Float:left;margin-right:30px;width:200px;}
 P:has(.clear){clear:both;}
 H2{clear:left;padding-top:1rem}
-ol{margin-left:200px}
+ol {margin-left:200px}
