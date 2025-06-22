@@ -87,11 +87,10 @@ Motor oil can be disposed of at:
 Clothing and shoes can be recycled at:
 1. Pickup in Livonia through [Simple Recycling](https://simplerecycling.com/)
 2. Shoes and Clothing Donations Bin located in the parking lot of Villa Marie 313-980-4311
-3. Shoes - [Fleet Feet](https://www.fleetfeet.com/s/semichigan/locations/northville?srsltid=AfmBOopWo4-EiYxkW45UmuPPtsyPVT-AeXYjTwxtDwhoy7YhAWjfyoEX) - Northville
-4. Shoes - [Got Sneakers](http://www.gotsneakers.com)
+3. Shoes - [Got Sneakers](http://www.gotsneakers.com)
 
 ## Plastic Bags
-<img class="right" src="./assets/images/bag.jpg" alt="Plastic Bags" />
+<img class="right" src="./assets/images/" alt="Plastic Bags" />
 Several organizations want plastic grocery bags to weave into mats. Plastic + Yarn, or “plarn”, is what is used to knit re-purposed plastic shopping bags into items such as sleeping mats for unhoused individuals and other household reusable items.
 
 Some places that take plastic bags are:
@@ -116,13 +115,6 @@ Some places that takes car seats and boosters are:
 1. [Recycle Ann Arbor](https://www.recycleannarbor.org/a-z-recycling-guide?page=1)
 2. [Target](https://www.target.com/c/car-seat-trade-in-event-faq/-/N-ln7zc)
 3. [Terracycle](https://shop.terracycle.com/en-US/products/baby-gear-zero-waste-pallet)
-
-## Plastic caps 
-
-<img class="right" src="./assets/images/caps.jpg" alt="Plastic caps" />
-
-Plastic caps be recycled at:
-1. American Legion Auxiliary
 
 ## Aluminum tabs
 
