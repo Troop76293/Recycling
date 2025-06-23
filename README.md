@@ -90,7 +90,7 @@ Clothing and shoes can be recycled at:
 3. Shoes - [Got Sneakers](http://www.gotsneakers.com)
 
 ## Plastic Bags
-<img class="right" src="./assets/images/" alt="Plastic Bags" />
+<img class="right" src="./assets/images/bag.jpg" alt="Plastic Bags" />
 Several organizations want plastic grocery bags to weave into mats. Plastic + Yarn, or “plarn”, is what is used to knit re-purposed plastic shopping bags into items such as sleeping mats for unhoused individuals and other household reusable items.
 
 Some places that take plastic bags are:
